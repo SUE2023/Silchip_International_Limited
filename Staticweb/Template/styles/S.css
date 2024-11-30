@@ -66,7 +66,7 @@ body  /* all above upto body: text-aligned: cetre are for browser recognition. I
 	width:330px; /* to make it fix so that when other section shrink it does not*/
 	/*margin:20px 0px;*/
 	padding: 20px;
-	background: greenyellow; /*Ask Sam for the Silchip Color Hex or RGB values */
+	background: #A8CD89; /*greenyellow;Ask Sam for the Silchip Color Hex or RGB values */
 }
 
 
@@ -75,7 +75,7 @@ body  /* all above upto body: text-aligned: cetre are for browser recognition. I
 #top_menu /*navigation bar*/
 {
 	border: red;
-	background:blue;
+	background:#0A5EB0; /*blue;*/
 	color:white;
 }
 #top_menu li
