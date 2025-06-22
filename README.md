@@ -1,3 +1,4 @@
+![Silchip International Limited Banner](bannerS.png)
 # Silchip\_International\_Limited
 
 This is a Minimum Viable Static Website Project showcasing the work of **Silchip International Limited**.
@@ -15,7 +16,7 @@ This is a Minimum Viable Static Website Project showcasing the work of **Silchip
 📁 Project Structure
 
 ```
-Template/
+/
 ├── index.html         # Main HTML file
 ├── scripts/           # JavaScript files
 └── styles/            # CSS stylesheets
@@ -24,12 +25,7 @@ Template/
 ---
  🚀 How to Run the Website
 
-Navigate to the `Template/` directory:
-
-```bash
-cd Template/
-```
-
+at the root/
 ✅ 1. Using Python (Built-in HTTP Server)
 
 * **For Python 3.x**:
