@@ -1,4 +1,4 @@
-![Silchip International Limited Banner](bannerS.png)
+![Silchip International Limited Banner](assets/banner.png)
 # Silchip\_International\_Limited
 
 This is a Minimum Viable Static Website Project showcasing the work of **Silchip International Limited**.
